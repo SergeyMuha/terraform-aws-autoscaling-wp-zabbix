@@ -27,23 +27,23 @@ Deploy infrastructure. This command will output dns name for haproxy and bastion
 
 ###### terraform apply -input=false -auto-approve
 
-Go to browser to zabbix-host dns to end zabbix setup
+Open in  browser  zabbix-host-dns to end zabbix setup
 
 ex.
 Outputs:
 
 Zabbix-host = ec2-18-206-90-206.compute-1.amazonaws.com
  
-## password for DB qwerty
-## name for host ec2-18-206-90-206.compute-1.amazonaws.com
-## user - Admin password - zabbix
+###### password for DB - qwerty
+###### name for host ec2-18-206-90-206.compute-1.amazonaws.com
+###### user - Admin, password - zabbix
 
 Configure zabbix for autodiscovery
 
 ![Alt text](https://www.kinokut.com/wp-content/uploads/2018/05/Capture1.png "Step 1")
 ![Alt text](https://www.kinokut.com/wp-content/uploads/2018/05/Capture2.png "Step 2")
 
-Check in browser  elb dns name 
+Open in browser  elb-dns-name 
 
 To destroy infrastructure use 
 
