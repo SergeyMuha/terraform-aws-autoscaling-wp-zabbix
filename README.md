@@ -1,5 +1,5 @@
 # terraform-aws-autoscaling-wp
-Use this template to setup aws infrastructure DB ELB autoscaling ... with wordpress site
+Use this template to setup aws infrastructure DB, ELB, Autoscaling group, Launch config, VPC and all network infrastructure. Automatically deploy wordpress site and setup zabbix server for monitoring.
 
 Requirements:
 AWS-cli with configured AWS Access Key ID and AWS Secret Access Key -- use https://docs.aws.amazon.com/cli/latest/userguide/awscli-install-linux.html 
