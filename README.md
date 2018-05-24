@@ -17,9 +17,9 @@ Create aws key-pair
 
 ###### cd somedir
 
-###### git clone https://github.com/SergeyMuha/terraform-aws-autoscaling-wp.git
+###### git clone https://github.com/SergeyMuha/terraform-aws-autoscaling-wp-zabbix.git
 
-###### cd terraform-aws-autoscaling-wp-zabbix
+###### cd terraform-aws-autoscaling-wp-zabbix/
 
 ###### terraform init
 
