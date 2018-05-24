@@ -40,8 +40,8 @@ Zabbix-host = ec2-18-206-90-206.compute-1.amazonaws.com
 
 Configure zabbix for autodiscovery
 
-![Alt text](https://drive.google.com/file/d/1BpnZbP-CI9xgfdaf36xwK1_Xb2nzSDRR/view?usp=sharing "Step 1")
-![Alt text](https://drive.google.com/file/d/1dhmbzF2077omG85eRAqKuNpykWEN9w4l/view?usp=sharing "Step 2")
+![Alt text](https://www.kinokut.com/wp-content/uploads/2018/05/Capture1.png "Step 1")
+![Alt text](https://www.kinokut.com/wp-content/uploads/2018/05/Capture2.png "Step 2")
 
 Check in browser  elb dns name 
 
