@@ -1,4 +1,4 @@
-# terraform-aws-autoscaling-wp
+# terraform-aws-autoscaling-wp-zabbix
 Use this template to setup aws infrastructure DB, ELB, Autoscaling group, Launch config, VPC and all network infrastructure. Automatically deploy wordpress site and setup zabbix server for monitoring.
 
 Requirements:
